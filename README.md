@@ -1,3 +1,2 @@
 # Portfolio Webiste
 
-theme : minima
