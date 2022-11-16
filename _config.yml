@@ -21,8 +21,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   I enjoy working on projects and have recently started writing blogs. 
 baseurl: "/my-jekyll-docker-website" # the subpath of your site, e.g. /blog
 url: "https://shivang1999.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: shivang_ran
+github_username:  shivang1999
+
+
+author : Shivang Ranjan
+
+#new fields not defaulted by jekyll-new with the minima theme
+
 
 # Build settings
 markdown: kramdown
